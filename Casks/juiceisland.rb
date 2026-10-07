@@ -1,6 +1,6 @@
 cask "juiceisland" do
-  version "0.5.0"
-  sha256 "10fb16bd26dfacf882c4679277d858e6cf96355fe607af1b121c466b8553ec6f"
+  version "0.8.1"
+  sha256 "366e8f770bc31cc269005d81bb3db97d9cb652548c7afb9bf889f9207f3e4d03"
 
   url "https://github.com/michaelofengenden/juiceisland/releases/download/v#{version}/Juice-#{version}.dmg"
   name "Juice"
